@@ -20,3 +20,6 @@ This dashboard provides insights of the attrition of an organization which helps
 * **Job Role Affected:** The sales role had the highest attrition rate, indicating a need for focused retention efforts in this department to reduce turnover.
 * **Education wise Attrition:** The attrition rate of High School is 18.24% which is maximum among the other education.
 * **Attrition Rate by Gender for Different Age Group:** The attrition count among the age group of 25-34 years 112 which is maximum among the other age groups.
+
+
+![image](https://github.com/Kritika605/PowerBI_HR_Dashboard/assets/78584354/3cee332e-7c1b-499f-89d7-cce26c1c1754)
