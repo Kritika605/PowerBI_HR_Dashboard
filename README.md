@@ -6,11 +6,11 @@ This dashboard provides insights of the attrition of an organization which helps
 
 # Learned about:
 * Calculated Field: To Calculate Attrition Rate & Active Employees
-*Matrix table: To show Job Satisfaction rating
-*Donut chart and Pie Chart
-*Bar Chart and Cluster chart 📊
-*KPI(Key Performing Indicators) and Slicer.
-*Filters: Used to filter data according to different education fields.
+* Matrix table: To show Job Satisfaction rating
+* Donut chart and Pie Chart
+* Bar Chart and Cluster chart 📊
+* KPI(Key Performing Indicators) and Slicer.
+* Filters: Used to filter data according to different education fields.
 
 ## Key Insights Summary:
 * **Total Employees:** The organization has grown significantly, currently employing 1470 individuals, indicating substantial growth and scale.
