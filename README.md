@@ -24,5 +24,6 @@ The goal is to enhance retention and strengthen the workforce through actionable
 * **Attrition Rate by Gender for Different Age Group:** The attrition count among the age group of 25-34 years 112 which is maximum among the other age groups.
 
 
-![image](https://github.com/Kritika605/PowerBI_HR_Dashboard/assets/78584354/cc221d26-74e1-4b00-bb9b-f0667a3b28bc)
+![image](https://github.com/Kritika605/PowerBI_HR_Dashboard/assets/78584354/63810f4b-3e2a-425c-8e81-c28eef340bc1)
+
 
