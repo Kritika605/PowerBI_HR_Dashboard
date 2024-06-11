@@ -1,5 +1,7 @@
 # HR Analytics Project -- Power Bi
 
+![image](https://github.com/Kritika605/PowerBI_HR_Dashboard/assets/78584354/63810f4b-3e2a-425c-8e81-c28eef340bc1)
+
 # Objective
 The objective of this project is to identify the key factors driving employee attrition and provide actionable insights for improving workforce retention in an organization. 
 This dashboard provides insights of the attrition of an organization which helps the HR team for their further analysis.
@@ -24,6 +26,6 @@ The goal is to enhance retention and strengthen the workforce through actionable
 * **Attrition Rate by Gender for Different Age Group:** The attrition count among the age group of 25-34 years 112 which is maximum among the other age groups.
 
 
-![image](https://github.com/Kritika605/PowerBI_HR_Dashboard/assets/78584354/63810f4b-3e2a-425c-8e81-c28eef340bc1)
+
 
 
